@@ -1,4 +1,4 @@
-# Homework Assignment # 10. Importing
+
 from tkinter import *
 
 # Building a calculator app with Tkinter
